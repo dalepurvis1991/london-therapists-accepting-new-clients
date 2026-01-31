@@ -1,0 +1,111 @@
+---
+import { PLACES, listAreas } from "../data/places";
+
+const url = new URL(Astro.request.url);
+const q = (url.searchParams.get("q") ?? "").trim().toLowerCase();
+
+const places = PLACES.filter((p) => {
+  if (!q) return true;
+  const hay = [
+    p.name,
+    p.area,
+    p.locationNote,
+    p.specialisms.join(" "),
+    p.sessionFormat,
+    p.blurb,
+  ]
+    .join(" ")
+    .toLowerCase();
+  return hay.includes(q);
+});
+
+const areas = listAreas();
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Therapists Accepting New Clients in London — Directory</title>
+    <meta
+      name="description"
+      content="A directory of therapists/counsellors who may be accepting new clients in London. Verify availability and credentials directly."
+    />
+    <style>
+      body {
+        font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto,
+          Helvetica, Arial;
+        margin: 0;
+        color: #111;
+      }
+      a { color: inherit; }
+      .wrap { max-width: 960px; margin: 0 auto; padding: 24px; }
+      .card { border: 1px solid #eee; padding: 14px; margin-bottom: 10px; }
+      .pill {
+        border: 1px solid #ddd;
+        padding: 6px 10px;
+        border-radius: 999px;
+        display: inline-block;
+        text-decoration: none;
+      }
+      .muted { color:#555; }
+    </style>
+  </head>
+  <body>
+    <main class="wrap">
+      <header>
+        <h1 style="font-size: 32px; margin: 0 0 8px;">Therapists Accepting New Clients (London)</h1>
+        <p class="muted" style="margin:0 0 16px;">
+          Directory MVP. Please verify availability and credentials directly with the provider.
+        </p>
+      </header>
+
+      <section style="display:flex; gap:12px; flex-wrap:wrap; align-items:center; margin-bottom:16px;">
+        <form style="display:flex; gap:12px; flex-wrap:wrap;">
+          <input
+            name="q"
+            value={q}
+            placeholder="Search (area, specialism, online…)"
+            style="padding:10px; min-width:320px;"
+          />
+          <button type="submit" style="padding:10px 14px; cursor:pointer;">Search</button>
+        </form>
+
+        <a href="/london/therapists" style="margin-left:auto; text-decoration:underline;">Browse all →</a>
+      </section>
+
+      <section style="margin-bottom:24px;">
+        <h2 style="font-size:20px; margin:0 0 8px;">Areas</h2>
+        <div style="display:flex; gap:10px; flex-wrap:wrap;">
+          {areas.map((a) => (
+            <a class="pill" href={`/london/therapists?area=${encodeURIComponent(a)}`}>{a}</a>
+          ))}
+        </div>
+      </section>
+
+      <section>
+        <h2 style="font-size:20px; margin:0 0 8px;">Listings ({places.length})</h2>
+        <ul style="list-style:none; padding:0; margin:0;">
+          {places.map((p) => (
+            <li class="card">
+              <div style="display:flex; justify-content:space-between; gap:12px;">
+                <a href={`/london/therapists/${p.slug}`}><strong>{p.name}</strong></a>
+                <span class="muted">{p.area}</span>
+              </div>
+              <div class="muted" style="margin-top:6px;">
+                {p.sessionFormat} • {p.specialisms.slice(0, 3).join(", ")}
+              </div>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <footer style="margin-top:24px;" class="muted">
+        <p style="margin:0; font-size:14px;">
+          This directory is informational and not medical advice.
+          If you are in crisis, contact emergency services.
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>
