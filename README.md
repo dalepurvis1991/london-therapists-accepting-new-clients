@@ -1,10 +1,18 @@
-# Astro Starter Kit: Minimal
+# Therapy & Wellbeing (London)
 
-```sh
-npm create astro@latest -- --template minimal
-```
+A fast, static directory site (Astro) backed by a bootstrap dataset sourced from OpenStreetMap.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Deploy (Vercel)
+1. Create a new project in Vercel and import this repo.
+2. Settings:
+   - Build Command: `npm run build`
+   - Output Directory: `dist`
+3. Set environment variable:
+   - `PUBLIC_SITE_URL` → e.g. `https://<your-project>.vercel.app`
+
+This is used to generate correct absolute URLs in `sitemap.xml`.
+
+---
 
 ## 🚀 Project Structure
 

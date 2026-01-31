@@ -1,28 +1,6 @@
 ---
 import { PLACES, listAreas } from "../../../data/places";
 
-const url = new URL(Astro.request.url);
-const q = (url.searchParams.get("q") ?? "").trim().toLowerCase();
-const area = (url.searchParams.get("area") ?? "").trim();
-
-const places = PLACES.filter((p) => {
-  if (area && p.area.toLowerCase() !== area.toLowerCase()) return false;
-  if (!q) return true;
-  const hay = [
-    p.name,
-    p.area,
-    p.locationNote,
-    p.specialisms.join(" "),
-    p.sessionFormat,
-    p.blurb,
-  ]
-    .join(" ")
-    .toLowerCase();
-  return hay.includes(q);
-});
-
-const areas = listAreas();
-
 const primaryLabel = (specialisms: string[]) => {
   const s = new Set(specialisms);
   const priority = [
@@ -42,6 +20,35 @@ const primaryLabel = (specialisms: string[]) => {
   for (const p of priority) if (s.has(p)) return p;
   return specialisms[0] ?? "Wellbeing";
 };
+
+const url = new URL(Astro.request.url);
+const q = (url.searchParams.get("q") ?? "").trim().toLowerCase();
+const area = (url.searchParams.get("area") ?? "").trim();
+const category = (url.searchParams.get("category") ?? "").trim();
+
+const places = PLACES.filter((p) => {
+  if (area && p.area.toLowerCase() !== area.toLowerCase()) return false;
+  if (category && primaryLabel(p.specialisms).toLowerCase() !== category.toLowerCase()) return false;
+  if (!q) return true;
+  const hay = [
+    p.name,
+    p.area,
+    p.locationNote,
+    p.specialisms.join(" "),
+    p.sessionFormat,
+    p.blurb,
+  ]
+    .join(" ")
+    .toLowerCase();
+  return hay.includes(q);
+});
+
+const areas = listAreas();
+const categories = Array.from(new Set(PLACES.map((p) => primaryLabel(p.specialisms)))).sort();
+
+// Prefer more complete listings.
+const primaryScore = (p: any) => (p.website ? 10 : 0) + (p._source?.postcode ? 3 : 0);
+const placesSorted = [...places].sort((a, b) => primaryScore(b) - primaryScore(a));
 ---
 
 <html lang="en">
@@ -91,7 +98,9 @@ const primaryLabel = (specialisms: string[]) => {
   <body>
     <main class="wrap">
       <h1 style="font-size: 28px; margin: 0 0 8px;">Therapy & Wellbeing (London)</h1>
-      <p class="muted" style="margin: 0 0 16px;">Filter by area. Verify details directly.</p>
+      <p class="muted" style="margin: 0 0 16px;">
+        Data is auto-added from OpenStreetMap. Verify services and availability directly.
+      </p>
 
       <form style="display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 14px;">
         <input
@@ -110,12 +119,21 @@ const primaryLabel = (specialisms: string[]) => {
           ))}
         </select>
 
+        <select name="category" style="padding: 10px;">
+          <option value="" selected={!category}>All categories</option>
+          {categories.map((c) => (
+            <option value={c} selected={category.toLowerCase() === c.toLowerCase()}>
+              {c}
+            </option>
+          ))}
+        </select>
+
         <button type="submit" style="padding: 10px 14px; cursor: pointer;">Apply</button>
         <a href="/" style="margin-left: auto; text-decoration: underline;">← Home</a>
       </form>
 
       <ul style="list-style: none; padding: 0; margin: 0;">
-        {places.map((p) => (
+        {placesSorted.map((p) => (
           <li class="card">
             <div style="display: flex; justify-content: space-between; gap: 12px; align-items:flex-start;">
               <div>

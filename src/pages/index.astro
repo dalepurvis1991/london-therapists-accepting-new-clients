@@ -1,26 +1,6 @@
 ---
 import { PLACES, listAreas } from "../data/places";
 
-const url = new URL(Astro.request.url);
-const q = (url.searchParams.get("q") ?? "").trim().toLowerCase();
-
-const places = PLACES.filter((p) => {
-  if (!q) return true;
-  const hay = [
-    p.name,
-    p.area,
-    p.locationNote,
-    p.specialisms.join(" "),
-    p.sessionFormat,
-    p.blurb,
-  ]
-    .join(" ")
-    .toLowerCase();
-  return hay.includes(q);
-});
-
-const areas = listAreas();
-
 const primaryLabel = (specialisms: string[]) => {
   const s = new Set(specialisms);
   const priority = [
@@ -40,6 +20,33 @@ const primaryLabel = (specialisms: string[]) => {
   for (const p of priority) if (s.has(p)) return p;
   return specialisms[0] ?? "Wellbeing";
 };
+
+const url = new URL(Astro.request.url);
+const q = (url.searchParams.get("q") ?? "").trim().toLowerCase();
+const category = (url.searchParams.get("category") ?? "").trim();
+
+const places = PLACES.filter((p) => {
+  if (category && primaryLabel(p.specialisms).toLowerCase() !== category.toLowerCase()) return false;
+  if (!q) return true;
+  const hay = [
+    p.name,
+    p.area,
+    p.locationNote,
+    p.specialisms.join(" "),
+    p.sessionFormat,
+    p.blurb,
+  ]
+    .join(" ")
+    .toLowerCase();
+  return hay.includes(q);
+});
+
+const areas = listAreas();
+const categories = Array.from(new Set(PLACES.map((p) => primaryLabel(p.specialisms)))).sort();
+
+// Prefer more complete listings.
+const primaryScore = (p: any) => (p.website ? 10 : 0) + (/\b[A-Z]{1,2}\d/i.test(p.locationNote) ? 3 : 0);
+const placesSorted = [...places].sort((a, b) => primaryScore(b) - primaryScore(a));
 ---
 
 <html lang="en">
@@ -98,6 +105,16 @@ const primaryLabel = (specialisms: string[]) => {
             placeholder="Search (area, specialism, online…)"
             style="padding:10px; min-width:320px;"
           />
+
+          <select name="category" style="padding:10px;">
+            <option value="" selected={!category}>All categories</option>
+            {categories.map((c) => (
+              <option value={c} selected={category.toLowerCase() === c.toLowerCase()}>
+                {c}
+              </option>
+            ))}
+          </select>
+
           <button type="submit" style="padding:10px 14px; cursor:pointer;">Search</button>
         </form>
 
@@ -116,7 +133,7 @@ const primaryLabel = (specialisms: string[]) => {
       <section>
         <h2 style="font-size:20px; margin:0 0 8px;">Listings ({places.length})</h2>
         <ul style="list-style:none; padding:0; margin:0;">
-          {places.map((p) => (
+          {placesSorted.map((p) => (
             <li class="card">
               <div style="display:flex; justify-content:space-between; gap:12px; align-items:flex-start;">
                 <div>

@@ -1,7 +1,7 @@
 import type { APIRoute } from "astro";
 import { PLACES } from "../data/places";
 
-const BASE_URL = "https://example.com"; // TODO: replace with real domain
+const BASE_URL = (import.meta as any).env?.PUBLIC_SITE_URL || "https://example.com";
 
 function xmlEscape(s: string) {
   return s
