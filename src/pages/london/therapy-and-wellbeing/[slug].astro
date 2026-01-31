@@ -6,6 +6,28 @@ export function getStaticPaths() {
 }
 
 const { place } = Astro.props;
+
+const primaryLabel = (specialisms: string[]) => {
+  const s = new Set(specialisms);
+  const priority = [
+    "Psychiatry",
+    "Psychology",
+    "Psychotherapy",
+    "Counselling",
+    "CBT",
+    "EMDR",
+    "Mindfulness",
+    "Yoga",
+    "Pilates",
+    "Massage",
+    "Spa",
+    "Wellbeing",
+  ];
+  for (const p of priority) if (s.has(p)) return p;
+  return specialisms[0] ?? "Wellbeing";
+};
+
+const category = primaryLabel(place.specialisms);
 ---
 
 <html lang="en">
@@ -37,6 +59,16 @@ const { place } = Astro.props;
         padding: 14px;
         margin-bottom: 14px;
       }
+      .tag {
+        display: inline-block;
+        border: 1px solid #eee;
+        background: #fafafa;
+        padding: 2px 8px;
+        border-radius: 999px;
+        font-size: 12px;
+        color: #444;
+        white-space: nowrap;
+      }
       .muted {
         color: #555;
       }
@@ -49,11 +81,15 @@ const { place } = Astro.props;
       </p>
 
       <h1 style="font-size: 30px; margin: 0 0 6px;">{place.name}</h1>
-      <p class="muted" style="margin: 0 0 14px;">{place.locationNote} • {place.sessionFormat}</p>
+      <div style="display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin: 0 0 10px;">
+        <span class="tag">{category}</span>
+        <span class="muted">{place.locationNote}{place.sessionFormat ? ` • ${place.sessionFormat}` : ""}</span>
+      </div>
 
       <div class="box">
         <div><strong>Accepting new clients:</strong> {place.acceptingNewClients ? "Yes" : "Unknown"}</div>
         <div><strong>Area:</strong> {place.area}</div>
+        <div><strong>Category:</strong> {category}</div>
         <div><strong>Specialisms:</strong> {place.specialisms.join(", ")}</div>
         {place.website ? (
           <div>
