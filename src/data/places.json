@@ -1,0 +1,5106 @@
+[
+  {
+    "name": "Nuffield Health Fitness & Wellbeing",
+    "slug": "nuffield-health-fitness-wellbeing-node-2048127670",
+    "area": "London",
+    "locationNote": "London SW19 1QB (exact location via provider)",
+    "website": "https://www.nuffieldhealth.com/gyms/wimbledon",
+    "contact": "https://www.nuffieldhealth.com/gyms/wimbledon",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/2048127670",
+      "lat": 51.4197623,
+      "lon": -0.2045963,
+      "postcode": "SW19 1QB"
+    }
+  },
+  {
+    "name": "H3 Wellbeing",
+    "slug": "h3-wellbeing-node-2323732984",
+    "area": "London",
+    "locationNote": "London N4 1DZ (exact location via provider)",
+    "website": "https://www.h3wellbeing.com/",
+    "contact": "https://www.h3wellbeing.com/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/2323732984",
+      "lat": 51.5759864,
+      "lon": -0.0986969,
+      "postcode": "N4 1DZ"
+    }
+  },
+  {
+    "name": "Alexandra Swindells Advanced Clinical Hypnotherapist",
+    "slug": "alexandra-swindells-advanced-clinical-hypnotherapist-node-7051503825",
+    "area": "Radlett",
+    "locationNote": "London WD7 7BD (exact location via provider)",
+    "website": "https://alexandraswindells.com",
+    "contact": "https://alexandraswindells.com",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/7051503825",
+      "lat": 51.6869045,
+      "lon": -0.3114055,
+      "postcode": "WD7 7BD"
+    }
+  },
+  {
+    "name": "Chinese Therapy Centre",
+    "slug": "chinese-therapy-centre-node-8383921065",
+    "area": "Watford",
+    "locationNote": "London WD18 7NL (exact location via provider)",
+    "website": "https://www.theorientalmassage.co.uk",
+    "contact": "https://www.theorientalmassage.co.uk",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8383921065",
+      "lat": 51.6493972,
+      "lon": -0.4138213,
+      "postcode": "WD18 7NL"
+    }
+  },
+  {
+    "name": "Refill Therapy",
+    "slug": "refill-therapy-node-8919609920",
+    "area": "London",
+    "locationNote": "London E9 5LH (exact location via provider)",
+    "website": "https://refilltherapy.co.uk/",
+    "contact": "https://refilltherapy.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8919609920",
+      "lat": 51.5439164,
+      "lon": -0.0253737,
+      "postcode": "E9 5LH"
+    }
+  },
+  {
+    "name": "Oriental Therapy Massage",
+    "slug": "oriental-therapy-massage-node-9227138853",
+    "area": "Rickmansworth",
+    "locationNote": "London WD3 1AB (exact location via provider)",
+    "website": "http://rickmansworththaimassage.co.uk/",
+    "contact": "http://rickmansworththaimassage.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/9227138853",
+      "lat": 51.6392232,
+      "lon": -0.4728468,
+      "postcode": "WD3 1AB"
+    }
+  },
+  {
+    "name": "Clearcut Physiotherapy",
+    "slug": "clearcut-physiotherapy-node-9883403520",
+    "area": "London",
+    "locationNote": "London SE9 5ER (exact location via provider)",
+    "website": "https://www.ccphysiotherapy.com",
+    "contact": "https://www.ccphysiotherapy.com",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/9883403520",
+      "lat": 51.4454064,
+      "lon": 0.0407512,
+      "postcode": "SE9 5ER"
+    }
+  },
+  {
+    "name": "MindCare Dementia Support",
+    "slug": "mindcare-dementia-support-node-10285202533",
+    "area": "London Bridge",
+    "locationNote": "London SE13 7DW (exact location via provider)",
+    "website": "https://blgmind.org.uk/lewisham-dementia/lewisham-dementia-support-hub/",
+    "contact": "https://blgmind.org.uk/lewisham-dementia/lewisham-dementia-support-hub/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/10285202533",
+      "lat": 51.465297,
+      "lon": -0.0093164,
+      "postcode": "SE13 7DW"
+    }
+  },
+  {
+    "name": "Brixton Therapy Centre",
+    "slug": "brixton-therapy-centre-node-10746359105",
+    "area": "London",
+    "locationNote": "London SW9 8EN (exact location via provider)",
+    "website": "https://www.brixtontherapycentre.com/",
+    "contact": "https://www.brixtontherapycentre.com/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/10746359105",
+      "lat": 51.4615894,
+      "lon": -0.1158174,
+      "postcode": "SW9 8EN"
+    }
+  },
+  {
+    "name": "Kennington Osteopaths & Physiotherapy",
+    "slug": "kennington-osteopaths-physiotherapy-node-10916858699",
+    "area": "London Bridge",
+    "locationNote": "London SE11 4DP (exact location via provider)",
+    "website": "https://www.kenningtonosteopaths.co.uk",
+    "contact": "https://www.kenningtonosteopaths.co.uk",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/10916858699",
+      "lat": 51.4884104,
+      "lon": -0.1106661,
+      "postcode": "SE11 4DP"
+    }
+  },
+  {
+    "name": "ACBT London Motorcycle Training school",
+    "slug": "acbt-london-motorcycle-training-school-node-11933028383",
+    "area": "London",
+    "locationNote": "London SE3 8PB (exact location via provider)",
+    "website": "https://www.acbt.london/",
+    "contact": "https://www.acbt.london/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/11933028383",
+      "lat": 51.4680315,
+      "lon": 0.0322783,
+      "postcode": "SE3 8PB"
+    }
+  },
+  {
+    "name": "Oxygen Therapy & MS Centre",
+    "slug": "oxygen-therapy-ms-centre-node-12312202967",
+    "area": "Swanley",
+    "locationNote": "London BR8 8AH (exact location via provider)",
+    "website": "https://swanleytherapycentre.org",
+    "contact": "https://swanleytherapycentre.org",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/12312202967",
+      "lat": 51.3962581,
+      "lon": 0.1800623,
+      "postcode": "BR8 8AH"
+    }
+  },
+  {
+    "name": "Harrow Multiple Sclerosis Therapy Centre",
+    "slug": "harrow-multiple-sclerosis-therapy-centre-way-205993390",
+    "area": "London",
+    "locationNote": "London HA1 3TS (exact location via provider)",
+    "website": "https://harrowmscentre.co.uk/",
+    "contact": "https://harrowmscentre.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/205993390",
+      "lat": 51.5701865,
+      "lon": -0.3233552,
+      "postcode": "HA1 3TS"
+    }
+  },
+  {
+    "name": "Richmond Borough Mind",
+    "slug": "richmond-borough-mind-way-354182355",
+    "area": "Twickenham",
+    "locationNote": "London TW2 5QB (exact location via provider)",
+    "website": "https://www.rbmind.org/",
+    "contact": "https://www.rbmind.org/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/354182355",
+      "lat": 51.4420472,
+      "lon": -0.3442582,
+      "postcode": "TW2 5QB"
+    }
+  },
+  {
+    "name": "West Thames Physiotherapy",
+    "slug": "west-thames-physiotherapy-way-561893313",
+    "area": "Whitton",
+    "locationNote": "London TW2 7BZ (exact location via provider)",
+    "website": "https://westthamesphysio.com/",
+    "contact": "https://westthamesphysio.com/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/561893313",
+      "lat": 51.4544633,
+      "lon": -0.3590153,
+      "postcode": "TW2 7BZ"
+    }
+  },
+  {
+    "name": "Nuffield Health Fitness & Wellbeing",
+    "slug": "nuffield-health-fitness-wellbeing-node-1713257252",
+    "area": "London",
+    "locationNote": "London EC4R 3XJ (exact location via provider)",
+    "website": "https://www.nuffieldhealth.com/gyms/city",
+    "contact": "https://www.nuffieldhealth.com/gyms/city",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/1713257252",
+      "lat": 51.5096752,
+      "lon": -0.0914835,
+      "postcode": "EC4R 3XJ"
+    }
+  },
+  {
+    "name": "Nuffield Health Fitness & Wellbeing",
+    "slug": "nuffield-health-fitness-wellbeing-node-2285457303",
+    "area": "Kingston upon Thames",
+    "locationNote": "London KT2 5EN (exact location via provider)",
+    "website": "https://www.nuffieldhealth.com/gyms/kingston",
+    "contact": "https://www.nuffieldhealth.com/gyms/kingston",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/2285457303",
+      "lat": 51.4155435,
+      "lon": -0.3031612,
+      "postcode": "KT2 5EN"
+    }
+  },
+  {
+    "name": "Robert Thai Therapy & Spa",
+    "slug": "robert-thai-therapy-spa-node-2531006858",
+    "area": "London",
+    "locationNote": "London N1 1RU (exact location via provider)",
+    "website": "https://kobkun.co.uk/",
+    "contact": "https://kobkun.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/2531006858",
+      "lat": 51.5451582,
+      "lon": -0.103409,
+      "postcode": "N1 1RU"
+    }
+  },
+  {
+    "name": "Counselling London Psychotherapy",
+    "slug": "counselling-london-psychotherapy-node-3133928786",
+    "area": "Camden",
+    "locationNote": "London NW1 0XB (exact location via provider)",
+    "website": "https://www.counselling-london.org.uk/",
+    "contact": "https://www.counselling-london.org.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/3133928786",
+      "lat": 51.5401389,
+      "lon": -0.1347956,
+      "postcode": "NW1 0XB"
+    }
+  },
+  {
+    "name": "Body Logic Physiotherapy",
+    "slug": "body-logic-physiotherapy-node-3563741135",
+    "area": "Twickenham",
+    "locationNote": "London TW2 5AH (exact location via provider)",
+    "website": "https://bodylogicphysio.co.uk/",
+    "contact": "https://bodylogicphysio.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/3563741135",
+      "lat": 51.4443351,
+      "lon": -0.3457419,
+      "postcode": "TW2 5AH"
+    }
+  },
+  {
+    "name": "Fetcham Healthcare",
+    "slug": "fetcham-healthcare-node-3936733163",
+    "area": "Fetcham, Leatherhead",
+    "locationNote": "London KT22 9HX (exact location via provider)",
+    "website": "http://www.fetchamhealthcare.co.uk/",
+    "contact": "http://www.fetchamhealthcare.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/3936733163",
+      "lat": 51.2955749,
+      "lon": -0.3544621,
+      "postcode": "KT22 9HX"
+    }
+  },
+  {
+    "name": "Nuffield Health Fitness & Wellbeing",
+    "slug": "nuffield-health-fitness-wellbeing-node-4345112384",
+    "area": "London",
+    "locationNote": "London EN2 6SZ (exact location via provider)",
+    "website": "https://www.nuffieldhealth.com/gyms/enfield",
+    "contact": "https://www.nuffieldhealth.com/gyms/enfield",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/4345112384",
+      "lat": 51.6486274,
+      "lon": -0.0810842,
+      "postcode": "EN2 6SZ"
+    }
+  },
+  {
+    "name": "Acupunture Therapy Centre",
+    "slug": "acupunture-therapy-centre-node-4437912576",
+    "area": "Leatherhead",
+    "locationNote": "London KT22 8AG (exact location via provider)",
+    "website": "https://www.therealacupuncture.co.uk/",
+    "contact": "https://www.therealacupuncture.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/4437912576",
+      "lat": 51.2955243,
+      "lon": -0.3271713,
+      "postcode": "KT22 8AG"
+    }
+  },
+  {
+    "name": "Fernwood Clinic",
+    "slug": "fernwood-clinic-node-4699403067",
+    "area": "London",
+    "locationNote": "London SW12 9HR (exact location via provider)",
+    "website": "http://www.fernwoodclinic.co.uk/",
+    "contact": "http://www.fernwoodclinic.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/4699403067",
+      "lat": 51.4422424,
+      "lon": -0.1494603,
+      "postcode": "SW12 9HR"
+    }
+  },
+  {
+    "name": "Nuffield Health Fitness & Wellbeing",
+    "slug": "nuffield-health-fitness-wellbeing-node-5661461021",
+    "area": "Croydon",
+    "locationNote": "London CR0 4RQ (exact location via provider)",
+    "website": "https://www.nuffieldhealth.com/gyms/croydon",
+    "contact": "https://www.nuffieldhealth.com/gyms/croydon",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/5661461021",
+      "lat": 51.3565866,
+      "lon": -0.1157078,
+      "postcode": "CR0 4RQ"
+    }
+  },
+  {
+    "name": "Surrey Institute of Clinical Hypnotherapists",
+    "slug": "surrey-institute-of-clinical-hypnotherapists-node-6093564389",
+    "area": "Wallington",
+    "locationNote": "London SM6 7DJ (exact location via provider)",
+    "website": "https://www.sich.co.uk/clinic-wallington-surrey/",
+    "contact": "https://www.sich.co.uk/clinic-wallington-surrey/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/6093564389",
+      "lat": 51.3710637,
+      "lon": -0.1525196,
+      "postcode": "SM6 7DJ"
+    }
+  },
+  {
+    "name": "City Therapy Rooms",
+    "slug": "city-therapy-rooms-node-8002512436",
+    "area": "London",
+    "locationNote": "London EC4A 1JQ (exact location via provider)",
+    "website": "https://citytherapyrooms.co.uk/",
+    "contact": "https://citytherapyrooms.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8002512436",
+      "lat": 51.5171702,
+      "lon": -0.1103527,
+      "postcode": "EC4A 1JQ"
+    }
+  },
+  {
+    "name": "Kitchen Therapy",
+    "slug": "kitchen-therapy-node-8445201888",
+    "area": "London",
+    "locationNote": "London SW10 0RJ (exact location via provider)",
+    "website": "https://www.kitchen-therapy.co.uk/",
+    "contact": "https://www.kitchen-therapy.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8445201888",
+      "lat": 51.4780993,
+      "lon": -0.1837717,
+      "postcode": "SW10 0RJ"
+    }
+  },
+  {
+    "name": "Joy Thai Massage Therapy",
+    "slug": "joy-thai-massage-therapy-node-8999183060",
+    "area": "Esher",
+    "locationNote": "London KT10 9QJ (exact location via provider)",
+    "website": "https://joythaimassage.uk",
+    "contact": "https://joythaimassage.uk",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8999183060",
+      "lat": 51.3686135,
+      "lon": -0.3668942,
+      "postcode": "KT10 9QJ"
+    }
+  },
+  {
+    "name": "The Brandon Centre",
+    "slug": "the-brandon-centre-node-9113937182",
+    "area": "London",
+    "locationNote": "London NW5 3LG (exact location via provider)",
+    "website": "https://brandon-centre.org.uk/",
+    "contact": "https://brandon-centre.org.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/9113937182",
+      "lat": 51.5467574,
+      "lon": -0.1448072,
+      "postcode": "NW5 3LG"
+    }
+  },
+  {
+    "name": "Nuffield Health Fitness & Wellbeing",
+    "slug": "nuffield-health-fitness-wellbeing-node-9386821150",
+    "area": "Shoreditch",
+    "locationNote": "London E14 9FT (exact location via provider)",
+    "website": "https://www.nuffieldhealth.com/gyms/baltimore-wharf",
+    "contact": "https://www.nuffieldhealth.com/gyms/baltimore-wharf",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/9386821150",
+      "lat": 51.497062,
+      "lon": -0.0159081,
+      "postcode": "E14 9FT"
+    }
+  },
+  {
+    "name": "Nuffield Health Fitness & Wellbeing",
+    "slug": "nuffield-health-fitness-wellbeing-node-10760189516",
+    "area": "Ilford",
+    "locationNote": "London IG1 1BP (exact location via provider)",
+    "website": "https://www.nuffieldhealth.com/gyms/ilford",
+    "contact": "https://www.nuffieldhealth.com/gyms/ilford",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/10760189516",
+      "lat": 51.5573716,
+      "lon": 0.0733804,
+      "postcode": "IG1 1BP"
+    }
+  },
+  {
+    "name": "Oxyheal Hyperbaric Oxygen Therapy",
+    "slug": "oxyheal-hyperbaric-oxygen-therapy-node-11016190678",
+    "area": "Shoreditch",
+    "locationNote": "London E12 6SB (exact location via provider)",
+    "website": "https://www.oxyheal.co.uk",
+    "contact": "https://www.oxyheal.co.uk",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/11016190678",
+      "lat": 51.5409539,
+      "lon": 0.0508002,
+      "postcode": "E12 6SB"
+    }
+  },
+  {
+    "name": "West Hampstead Physiotherapy",
+    "slug": "west-hampstead-physiotherapy-node-11518577202",
+    "area": "London",
+    "locationNote": "London NW6 1NQ (exact location via provider)",
+    "website": "https://physionw6.co.uk",
+    "contact": "https://physionw6.co.uk",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/11518577202",
+      "lat": 51.5514913,
+      "lon": -0.1988683,
+      "postcode": "NW6 1NQ"
+    }
+  },
+  {
+    "name": "Exclusive Aesthetics and Wellbeing",
+    "slug": "exclusive-aesthetics-and-wellbeing-node-11637940593",
+    "area": "London",
+    "locationNote": "London E3 2JG (exact location via provider)",
+    "website": "https://exclusiveaestheticsawb.com/",
+    "contact": "https://exclusiveaestheticsawb.com/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/11637940593",
+      "lat": 51.536479,
+      "lon": -0.0230686,
+      "postcode": "E3 2JG"
+    }
+  },
+  {
+    "name": "Psycholog",
+    "slug": "psycholog-node-11991555309",
+    "area": "London",
+    "locationNote": "London SW19 1NE (exact location via provider)",
+    "website": "https://www.pomoc-psychologiczna.co.uk/",
+    "contact": "https://www.pomoc-psychologiczna.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/11991555309",
+      "lat": 51.4188832,
+      "lon": -0.1979916,
+      "postcode": "SW19 1NE"
+    }
+  },
+  {
+    "name": "Stress Therapy Ltd",
+    "slug": "stress-therapy-ltd-node-12290904415",
+    "area": "London",
+    "locationNote": "London N14 5EN (exact location via provider)",
+    "website": "https://stresstherapy.uk",
+    "contact": "https://stresstherapy.uk",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/12290904415",
+      "lat": 51.6321699,
+      "lon": -0.1289064,
+      "postcode": "N14 5EN"
+    }
+  },
+  {
+    "name": "Orpington Health & Wellbeing Centre",
+    "slug": "orpington-health-wellbeing-centre-node-12348564426",
+    "area": "Orpington",
+    "locationNote": "London BR6 0FE (exact location via provider)",
+    "website": "https://bromleygpalliance.org/orpington-health-wellbeing-centre-site-details",
+    "contact": "https://bromleygpalliance.org/orpington-health-wellbeing-centre-site-details",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/12348564426",
+      "lat": 51.3756737,
+      "lon": 0.1011672,
+      "postcode": "BR6 0FE"
+    }
+  },
+  {
+    "name": "Waterloo Community Counselling",
+    "slug": "waterloo-community-counselling-node-13097207005",
+    "area": "London Bridge",
+    "locationNote": "London SE1 7BD (exact location via provider)",
+    "website": "https://waterloocc.co.uk/",
+    "contact": "https://waterloocc.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/13097207005",
+      "lat": 51.4998963,
+      "lon": -0.1092097,
+      "postcode": "SE1 7BD"
+    }
+  },
+  {
+    "name": "It Is Well Nutritional Therapy",
+    "slug": "it-is-well-nutritional-therapy-node-13101159043",
+    "area": "Weybridge",
+    "locationNote": "London KT13 9DY (exact location via provider)",
+    "website": "https://www.itiswell.uk/",
+    "contact": "https://www.itiswell.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/13101159043",
+      "lat": 51.3705556,
+      "lon": -0.445445,
+      "postcode": "KT13 9DY"
+    }
+  },
+  {
+    "name": "The Practice Rooms",
+    "slug": "the-practice-rooms-node-13129574101",
+    "area": "London",
+    "locationNote": "London N1 9RD (exact location via provider)",
+    "website": "https://thepracticerooms.co.uk/centre/london-islington/",
+    "contact": "https://thepracticerooms.co.uk/centre/london-islington/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/13129574101",
+      "lat": 51.5344187,
+      "lon": -0.1169803,
+      "postcode": "N1 9RD"
+    }
+  },
+  {
+    "name": "Nuffield Health Fitness & Wellbeing",
+    "slug": "nuffield-health-fitness-wellbeing-way-4229092",
+    "area": "London",
+    "locationNote": "London NW2 5JY (exact location via provider)",
+    "website": "https://www.nuffieldhealth.com/gyms/brondesbury-park",
+    "contact": "https://www.nuffieldhealth.com/gyms/brondesbury-park",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/4229092",
+      "lat": 51.5449172,
+      "lon": -0.2213145,
+      "postcode": "NW2 5JY"
+    }
+  },
+  {
+    "name": "Nuffield Health Fitness & Wellbeing",
+    "slug": "nuffield-health-fitness-wellbeing-way-13868524",
+    "area": "Norbury",
+    "locationNote": "London SW16 4DN (exact location via provider)",
+    "website": "https://www.nuffieldhealth.com/gyms/norbury",
+    "contact": "https://www.nuffieldhealth.com/gyms/norbury",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/13868524",
+      "lat": 51.4060832,
+      "lon": -0.1181405,
+      "postcode": "SW16 4DN"
+    }
+  },
+  {
+    "name": "Longfield Integrated Care & Physiotherapy Centre",
+    "slug": "longfield-integrated-care-physiotherapy-centre-way-28671440",
+    "area": "London",
+    "locationNote": "London DA3 7PJ (exact location via provider)",
+    "website": "https://www.longfieldpolyclinic.co.uk/",
+    "contact": "https://www.longfieldpolyclinic.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/28671440",
+      "lat": 51.395129,
+      "lon": 0.3126224,
+      "postcode": "DA3 7PJ"
+    }
+  },
+  {
+    "name": "Thorne House",
+    "slug": "thorne-house-way-28842017",
+    "area": "Shoreditch",
+    "locationNote": "London E11 4HU (exact location via provider)",
+    "website": "https://www.nhs.uk/services/clinic/talking-therapies-waltham-forest/RATFC",
+    "contact": "https://www.nhs.uk/services/clinic/talking-therapies-waltham-forest/RATFC",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/28842017",
+      "lat": 51.5547239,
+      "lon": 0.0044487,
+      "postcode": "E11 4HU"
+    }
+  },
+  {
+    "name": "Nuffield Health Fitness & Wellbeing",
+    "slug": "nuffield-health-fitness-wellbeing-way-46798417",
+    "area": "Rickmansworth",
+    "locationNote": "London WD3 4HF (exact location via provider)",
+    "website": "https://www.nuffieldhealth.com/royalmasonic",
+    "contact": "https://www.nuffieldhealth.com/royalmasonic",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/46798417",
+      "lat": 51.645312,
+      "lon": -0.4723582,
+      "postcode": "WD3 4HF"
+    }
+  },
+  {
+    "name": "Ruan Thai Aromatherapy",
+    "slug": "ruan-thai-aromatherapy-way-71081249",
+    "area": "London",
+    "locationNote": "London N19 5LB (exact location via provider)",
+    "website": "http://www.ruanthaispa.co.uk",
+    "contact": "http://www.ruanthaispa.co.uk",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/71081249",
+      "lat": 51.5612093,
+      "lon": -0.13715,
+      "postcode": "N19 5LB"
+    }
+  },
+  {
+    "name": "Camden Psychotherapy Unit",
+    "slug": "camden-psychotherapy-unit-way-85255721",
+    "area": "London",
+    "locationNote": "London NW5 3NT (exact location via provider)",
+    "website": "https://www.cpu-london.com/",
+    "contact": "https://www.cpu-london.com/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/85255721",
+      "lat": 51.54581,
+      "lon": -0.1492855,
+      "postcode": "NW5 3NT"
+    }
+  },
+  {
+    "name": "Community Recovery Service for Older People",
+    "slug": "community-recovery-service-for-older-people-way-104113274",
+    "area": "Camden",
+    "locationNote": "London NW1 9DB (exact location via provider)",
+    "website": "https://www.northlondonmentalhealth.nhs.uk/our-services-page/service/community-recovery-service-for-older-people-160/",
+    "contact": "https://www.northlondonmentalhealth.nhs.uk/our-services-page/service/community-recovery-service-for-older-people-160/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/104113274",
+      "lat": 51.5439049,
+      "lon": -0.1353006,
+      "postcode": "NW1 9DB"
+    }
+  },
+  {
+    "name": "Educational Excellence & Wellbeing",
+    "slug": "educational-excellence-wellbeing-way-201338060",
+    "area": "Croydon",
+    "locationNote": "London CR0 1ND (exact location via provider)",
+    "website": "https://www.educationalexcellence.org.uk/",
+    "contact": "https://www.educationalexcellence.org.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/201338060",
+      "lat": 51.3698032,
+      "lon": -0.1001543,
+      "postcode": "CR0 1ND"
+    }
+  },
+  {
+    "name": "Centre for Counselling & Psychotherapy Education",
+    "slug": "centre-for-counselling-psychotherapy-education-way-288307868",
+    "area": "London",
+    "locationNote": "London W2 6NE (exact location via provider)",
+    "website": "https://www.ccpe.org.uk/",
+    "contact": "https://www.ccpe.org.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/288307868",
+      "lat": 51.5208134,
+      "lon": -0.1813784,
+      "postcode": "W2 6NE"
+    }
+  },
+  {
+    "name": "Nuffield Health Fitness & Wellbeing",
+    "slug": "nuffield-health-fitness-wellbeing-way-634029753",
+    "area": "Twickenham",
+    "locationNote": "London TW2 7SX (exact location via provider)",
+    "website": "https://www.nuffieldhealth.com/gyms/twickenham",
+    "contact": "https://www.nuffieldhealth.com/gyms/twickenham",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/634029753",
+      "lat": 51.4510126,
+      "lon": -0.3426914,
+      "postcode": "TW2 7SX"
+    }
+  },
+  {
+    "name": "Physio & Therapy London",
+    "slug": "physio-therapy-london-way-708046707",
+    "area": "Teddington",
+    "locationNote": "London TW11 8QT (exact location via provider)",
+    "website": "http://www.physioandtherapylondon.co.uk",
+    "contact": "http://www.physioandtherapylondon.co.uk",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/708046707",
+      "lat": 51.4262402,
+      "lon": -0.335013,
+      "postcode": "TW11 8QT"
+    }
+  },
+  {
+    "name": "Denham Garden Village Fitness and Wellbeing Centre",
+    "slug": "denham-garden-village-fitness-and-wellbeing-centre-way-708303152",
+    "area": "Denham Garden Village",
+    "locationNote": "London UB9 5LB (exact location via provider)",
+    "website": "https://www.nuffieldhealth.com/denham-garden",
+    "contact": "https://www.nuffieldhealth.com/denham-garden",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/708303152",
+      "lat": 51.5857396,
+      "lon": -0.5017135,
+      "postcode": "UB9 5LB"
+    }
+  },
+  {
+    "name": "White Hart Physiotherapy & Osteopathy Clinic",
+    "slug": "white-hart-physiotherapy-osteopathy-clinic-way-815853942",
+    "area": "London",
+    "locationNote": "London SW13 0PY (exact location via provider)",
+    "website": "https://www.whitehartclinic.co.uk/",
+    "contact": "https://www.whitehartclinic.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/815853942",
+      "lat": 51.4699251,
+      "lon": -0.2554711,
+      "postcode": "SW13 0PY"
+    }
+  },
+  {
+    "name": "Child and Adolescent Mental Health Services",
+    "slug": "child-and-adolescent-mental-health-services-way-971272215",
+    "area": "Hammersmith",
+    "locationNote": "London W6 0LS (exact location via provider)",
+    "website": "https://www.westlondon.nhs.uk/our-services/child-and-adolescent/camhs/about-camhs/camhs-services-borough",
+    "contact": "https://www.westlondon.nhs.uk/our-services/child-and-adolescent/camhs/about-camhs/camhs-services-borough",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/971272215",
+      "lat": 51.494611,
+      "lon": -0.2289585,
+      "postcode": "W6 0LS"
+    }
+  },
+  {
+    "name": "Origin Massage Therapy",
+    "slug": "origin-massage-therapy-way-1037817191",
+    "area": "London",
+    "locationNote": "London N10 2AE (exact location via provider)",
+    "website": "https://originmassagetherapy.co.uk",
+    "contact": "https://originmassagetherapy.co.uk",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1037817191",
+      "lat": 51.5983193,
+      "lon": -0.1387394,
+      "postcode": "N10 2AE"
+    }
+  },
+  {
+    "name": "Rephael House",
+    "slug": "rephael-house-way-1039374567",
+    "area": "London",
+    "locationNote": "London N12 0RG (exact location via provider)",
+    "website": "https://www.rephaelhouse.org.uk",
+    "contact": "https://www.rephaelhouse.org.uk",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1039374567",
+      "lat": 51.611885,
+      "lon": -0.1732157,
+      "postcode": "N12 0RG"
+    }
+  },
+  {
+    "name": "Jane Atkinson Health and Wellbeing Centre",
+    "slug": "jane-atkinson-health-and-wellbeing-centre-way-1306349223",
+    "area": "Shoreditch",
+    "locationNote": "London E17 3HP (exact location via provider)",
+    "website": "https://www.nelft.nhs.uk/jane-atkinson-health-wellbeing-centre/",
+    "contact": "https://www.nelft.nhs.uk/jane-atkinson-health-wellbeing-centre/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1306349223",
+      "lat": 51.5908869,
+      "lon": -0.0070046,
+      "postcode": "E17 3HP"
+    }
+  },
+  {
+    "name": "Refill Therapy",
+    "slug": "refill-therapy-node-3837289000",
+    "area": "London",
+    "locationNote": "London E20 1FS (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/3837289000",
+      "lat": 51.5466663,
+      "lon": -0.0124267,
+      "postcode": "E20 1FS"
+    }
+  },
+  {
+    "name": "London Stop Smoking",
+    "slug": "london-stop-smoking-node-4076552260",
+    "area": "London",
+    "locationNote": "London EC2M 4NS (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/4076552260",
+      "lat": 51.5177611,
+      "lon": -0.0797457,
+      "postcode": "EC2M 4NS"
+    }
+  },
+  {
+    "name": "Contemporary Chinese Therapy",
+    "slug": "contemporary-chinese-therapy-node-4405143987",
+    "area": "Surbiton",
+    "locationNote": "London KT6 4JL (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/4405143987",
+      "lat": 51.3915186,
+      "lon": -0.3085023,
+      "postcode": "KT6 4JL"
+    }
+  },
+  {
+    "name": "Sir Ludwig Guttmann Health and Wellbeing Centre",
+    "slug": "sir-ludwig-guttmann-health-and-wellbeing-centre-way-160460159",
+    "area": "London",
+    "locationNote": "London E20 1AS (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/160460159",
+      "lat": 51.5486546,
+      "lon": -0.0054122,
+      "postcode": "E20 1AS"
+    }
+  },
+  {
+    "name": "Holistic Thai Therapy",
+    "slug": "holistic-thai-therapy-way-347654006",
+    "area": "Twickenham",
+    "locationNote": "London TW2 5AB (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/347654006",
+      "lat": 51.4445358,
+      "lon": -0.3420154,
+      "postcode": "TW2 5AB"
+    }
+  },
+  {
+    "name": "Raksa Thai Therapy",
+    "slug": "raksa-thai-therapy-way-391835734",
+    "area": "Twickenham",
+    "locationNote": "London TW1 3SD (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/391835734",
+      "lat": 51.4460174,
+      "lon": -0.3283855,
+      "postcode": "TW1 3SD"
+    }
+  },
+  {
+    "name": "Thai Therapy @ Kew",
+    "slug": "thai-therapy-kew-way-586085731",
+    "area": "Richmond",
+    "locationNote": "London TW9 2PN (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/586085731",
+      "lat": 51.4653429,
+      "lon": -0.299571,
+      "postcode": "TW9 2PN"
+    }
+  },
+  {
+    "name": "Psychiatric & Psychological Consultant Services Ltd",
+    "slug": "psychiatric-psychological-consultant-services-ltd-node-1436439223",
+    "area": "Soho",
+    "locationNote": "London W1G 6HX (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/1436439223",
+      "lat": 51.522492,
+      "lon": -0.1500176,
+      "postcode": "W1G 6HX"
+    }
+  },
+  {
+    "name": "MYPT Therapy",
+    "slug": "mypt-therapy-node-2106381747",
+    "area": "Croydon",
+    "locationNote": "London CR0 1YJ (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/2106381747",
+      "lat": 51.3730003,
+      "lon": -0.0978211,
+      "postcode": "CR0 1YJ"
+    }
+  },
+  {
+    "name": "Buzz Hair Therapy",
+    "slug": "buzz-hair-therapy-node-3217455863",
+    "area": "London",
+    "locationNote": "London N1 4QX (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/3217455863",
+      "lat": 51.549586,
+      "lon": -0.087238,
+      "postcode": "N1 4QX"
+    }
+  },
+  {
+    "name": "Addlestone Therapy Centre",
+    "slug": "addlestone-therapy-centre-node-3361974043",
+    "area": "Addlestone",
+    "locationNote": "London KT15 2BD (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/3361974043",
+      "lat": 51.3723666,
+      "lon": -0.48507,
+      "postcode": "KT15 2BD"
+    }
+  },
+  {
+    "name": "Massage Therapy",
+    "slug": "massage-therapy-node-3573166710",
+    "area": "Ashford",
+    "locationNote": "London TW15 2TY (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/3573166710",
+      "lat": 51.4333651,
+      "lon": -0.464281,
+      "postcode": "TW15 2TY"
+    }
+  },
+  {
+    "name": "Nuffield Health Fitness & Wellbeing",
+    "slug": "nuffield-health-fitness-wellbeing-node-4865395494",
+    "area": "Shoreditch",
+    "locationNote": "London E14 9SH (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/4865395494",
+      "lat": 51.5006021,
+      "lon": -0.01712,
+      "postcode": "E14 9SH"
+    }
+  },
+  {
+    "name": "MyPhysio",
+    "slug": "myphysio-node-5785125348",
+    "area": "Croydon",
+    "locationNote": "London CR0 7AE (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/5785125348",
+      "lat": 51.3822329,
+      "lon": -0.0678813,
+      "postcode": "CR0 7AE"
+    }
+  },
+  {
+    "name": "Massage Therapy",
+    "slug": "massage-therapy-node-5837184379",
+    "area": "Purley",
+    "locationNote": "London CR8 2AU (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/5837184379",
+      "lat": 51.3375752,
+      "lon": -0.1151906,
+      "postcode": "CR8 2AU"
+    }
+  },
+  {
+    "name": "Well Being Health Foods",
+    "slug": "well-being-health-foods-node-5842529157",
+    "area": "Sydenham",
+    "locationNote": "London SE26 5EX (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/5842529157",
+      "lat": 51.4264876,
+      "lon": -0.0533197,
+      "postcode": "SE26 5EX"
+    }
+  },
+  {
+    "name": "The Ryan MS Therapy Centre",
+    "slug": "the-ryan-ms-therapy-centre-node-7771198094",
+    "area": "Coulsdon",
+    "locationNote": "London CR5 2QS (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/7771198094",
+      "lat": 51.3252559,
+      "lon": -0.1567828,
+      "postcode": "CR5 2QS"
+    }
+  },
+  {
+    "name": "Lymphatic Therapy Lounge",
+    "slug": "lymphatic-therapy-lounge-node-7798793822",
+    "area": "London",
+    "locationNote": "London N22 8NG (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/7798793822",
+      "lat": 51.6063736,
+      "lon": -0.1189131,
+      "postcode": "N22 8NG"
+    }
+  },
+  {
+    "name": "Dr Liu Wellbeing Centre",
+    "slug": "dr-liu-wellbeing-centre-node-8707325015",
+    "area": "Soho",
+    "locationNote": "London W13 9RT (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8707325015",
+      "lat": 51.5029037,
+      "lon": -0.3169145,
+      "postcode": "W13 9RT"
+    }
+  },
+  {
+    "name": "MAES Therapy",
+    "slug": "maes-therapy-node-9707528288",
+    "area": "London",
+    "locationNote": "London E7 9EF (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/9707528288",
+      "lat": 51.5561828,
+      "lon": 0.0181107,
+      "postcode": "E7 9EF"
+    }
+  },
+  {
+    "name": "Support & Sustain",
+    "slug": "support-sustain-node-12572476212",
+    "area": "London",
+    "locationNote": "London SE5 8RS (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/12572476212",
+      "lat": 51.4719239,
+      "lon": -0.0928255,
+      "postcode": "SE5 8RS"
+    }
+  },
+  {
+    "name": "National Unplanned Pregnancy Advisory Servic",
+    "slug": "national-unplanned-pregnancy-advisory-servic-node-12624002223",
+    "area": "London",
+    "locationNote": "London KT5 9AL (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/12624002223",
+      "lat": 51.3862299,
+      "lon": -0.2937596,
+      "postcode": "KT5 9AL"
+    }
+  },
+  {
+    "name": "Nuffield Health Fitness & Wellbeing",
+    "slug": "nuffield-health-fitness-wellbeing-node-12866448574",
+    "area": "London",
+    "locationNote": "London EC2Y 9AW (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/12866448574",
+      "lat": 51.5197188,
+      "lon": -0.0897096,
+      "postcode": "EC2Y 9AW"
+    }
+  },
+  {
+    "name": "Food Allergy Immunotherapy Centre",
+    "slug": "food-allergy-immunotherapy-centre-node-12871400813",
+    "area": "London",
+    "locationNote": "London WC1N 3JH (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/12871400813",
+      "lat": 51.5225893,
+      "lon": -0.1192936,
+      "postcode": "WC1N 3JH"
+    }
+  },
+  {
+    "name": "St John's Therapy Centre",
+    "slug": "st-johns-therapy-centre-way-95995702",
+    "area": "London",
+    "locationNote": "London SW11 1SW (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/95995702",
+      "lat": 51.4599632,
+      "lon": -0.1794053,
+      "postcode": "SW11 1SW"
+    }
+  },
+  {
+    "name": "Royal College of Psychiatrists",
+    "slug": "royal-college-of-psychiatrists-way-107275356",
+    "area": "Shoreditch",
+    "locationNote": "London E1 8BB (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/107275356",
+      "lat": 51.5114245,
+      "lon": -0.0711439,
+      "postcode": "E1 8BB"
+    }
+  },
+  {
+    "name": "My Health & Wellbeing",
+    "slug": "my-health-wellbeing-way-107400649",
+    "area": "Shoreditch",
+    "locationNote": "London E1 1DT (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/107400649",
+      "lat": 51.5175589,
+      "lon": -0.0667216,
+      "postcode": "E1 1DT"
+    }
+  },
+  {
+    "name": "Kin",
+    "slug": "kin-way-225812871",
+    "area": "London Bridge",
+    "locationNote": "London SE19 2TA (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/225812871",
+      "lat": 51.4176076,
+      "lon": -0.0805112,
+      "postcode": "SE19 2TA"
+    }
+  },
+  {
+    "name": "IM&T Clinical Psychology",
+    "slug": "im-t-clinical-psychology-way-395823487",
+    "area": "Shoreditch",
+    "locationNote": "London E1 2BL (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/395823487",
+      "lat": 51.5167067,
+      "lon": -0.0581451,
+      "postcode": "E1 2BL"
+    }
+  },
+  {
+    "name": "Community and Wellbeing Hub",
+    "slug": "community-and-wellbeing-hub-way-396742833",
+    "area": "Shoreditch",
+    "locationNote": "London E14 8DS (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/396742833",
+      "lat": 51.5121275,
+      "lon": -0.0410944,
+      "postcode": "E14 8DS"
+    }
+  },
+  {
+    "name": "ABC-OT",
+    "slug": "abc-ot-way-432234945",
+    "area": "London",
+    "locationNote": "London SW14 8AN (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/432234945",
+      "lat": 51.4651,
+      "lon": -0.2636846,
+      "postcode": "SW14 8AN"
+    }
+  },
+  {
+    "name": "J. H. Broad & Co. Ltd.",
+    "slug": "j-h-broad-co-ltd-way-432785643",
+    "area": "Richmond",
+    "locationNote": "London TW9 1ND (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/432785643",
+      "lat": 51.4598728,
+      "lon": -0.3068201,
+      "postcode": "TW9 1ND"
+    }
+  },
+  {
+    "name": "Total Wellbeing",
+    "slug": "total-wellbeing-way-460097972",
+    "area": "London",
+    "locationNote": "London SW14 8LW (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/460097972",
+      "lat": 51.4669461,
+      "lon": -0.2669343,
+      "postcode": "SW14 8LW"
+    }
+  },
+  {
+    "name": "Chiropractic Wellbeing",
+    "slug": "chiropractic-wellbeing-way-507510593",
+    "area": "Twickenham",
+    "locationNote": "London TW1 3EJ (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/507510593",
+      "lat": 51.4534781,
+      "lon": -0.3186152,
+      "postcode": "TW1 3EJ"
+    }
+  },
+  {
+    "name": "Just Therapy",
+    "slug": "just-therapy-way-532575243",
+    "area": "Sidcup",
+    "locationNote": "London DA14 6ES (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/532575243",
+      "lat": 51.4247945,
+      "lon": 0.1057644,
+      "postcode": "DA14 6ES"
+    }
+  },
+  {
+    "name": "Sheen Physiotherapy and Sports Injuries Clinic",
+    "slug": "sheen-physiotherapy-and-sports-injuries-clinic-way-566456238",
+    "area": "London",
+    "locationNote": "London SW14 8LR (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/566456238",
+      "lat": 51.4638543,
+      "lon": -0.2668358,
+      "postcode": "SW14 8LR"
+    }
+  },
+  {
+    "name": "Wellbeing Fostering Agency",
+    "slug": "wellbeing-fostering-agency-way-610164102",
+    "area": "Coulsdon",
+    "locationNote": "London CR5 2RA (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/610164102",
+      "lat": 51.3206517,
+      "lon": -0.1396848,
+      "postcode": "CR5 2RA"
+    }
+  },
+  {
+    "name": "Therapy & Life Centre",
+    "slug": "therapy-life-centre-way-610269864",
+    "area": "Coulsdon",
+    "locationNote": "London CR5 2NF (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/610269864",
+      "lat": 51.3191412,
+      "lon": -0.139389,
+      "postcode": "CR5 2NF"
+    }
+  },
+  {
+    "name": "New Haw Therapy Clinic",
+    "slug": "new-haw-therapy-clinic-way-614084360",
+    "area": "London",
+    "locationNote": "London KT15 3NN (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/614084360",
+      "lat": 51.3503409,
+      "lon": -0.4959916,
+      "postcode": "KT15 3NN"
+    }
+  },
+  {
+    "name": "Adae Wellbeing",
+    "slug": "adae-wellbeing-way-614086826",
+    "area": "Wallington",
+    "locationNote": "London SM6 9AY (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/614086826",
+      "lat": 51.3589307,
+      "lon": -0.1434083,
+      "postcode": "SM6 9AY"
+    }
+  },
+  {
+    "name": "Crossroads Counselling",
+    "slug": "crossroads-counselling-way-616081575",
+    "area": "London",
+    "locationNote": "London E2 0RY (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/616081575",
+      "lat": 51.5290919,
+      "lon": -0.0464173,
+      "postcode": "E2 0RY"
+    }
+  },
+  {
+    "name": "L&N Therapy",
+    "slug": "l-n-therapy-way-638719669",
+    "area": "London",
+    "locationNote": "London SE9 4DZ (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/638719669",
+      "lat": 51.427216,
+      "lon": 0.0465698,
+      "postcode": "SE9 4DZ"
+    }
+  },
+  {
+    "name": "Oriental Wellbeing",
+    "slug": "oriental-wellbeing-way-694136549",
+    "area": "Twickenham",
+    "locationNote": "London TW1 2DY (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/694136549",
+      "lat": 51.4555346,
+      "lon": -0.3099415,
+      "postcode": "TW1 2DY"
+    }
+  },
+  {
+    "name": "Nafisayat Intercultural Therapy Centre",
+    "slug": "nafisayat-intercultural-therapy-centre-way-749610851",
+    "area": "London",
+    "locationNote": "London N19 3QP (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/749610851",
+      "lat": 51.5684351,
+      "lon": -0.1329898,
+      "postcode": "N19 3QP"
+    }
+  },
+  {
+    "name": "Department of Psychology and Human Development",
+    "slug": "department-of-psychology-and-human-development-way-802240712",
+    "area": "London",
+    "locationNote": "London WC1H 0AA (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/802240712",
+      "lat": 51.5230275,
+      "lon": -0.1298849,
+      "postcode": "WC1H 0AA"
+    }
+  },
+  {
+    "name": "St. George's Health & Wellbeing Hub",
+    "slug": "st-georges-health-wellbeing-hub-way-863401259",
+    "area": "Hornchurch",
+    "locationNote": "London RM12 6RR (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/863401259",
+      "lat": 51.5487002,
+      "lon": 0.2190364,
+      "postcode": "RM12 6RR"
+    }
+  },
+  {
+    "name": "Acuherb Therapy Clinic",
+    "slug": "acuherb-therapy-clinic-way-967688403",
+    "area": "Ruislip",
+    "locationNote": "London HA4 7BT (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/967688403",
+      "lat": 51.5740464,
+      "lon": -0.4253232,
+      "postcode": "HA4 7BT"
+    }
+  },
+  {
+    "name": "Epione Wellbeing Centre",
+    "slug": "epione-wellbeing-centre-way-1030341731",
+    "area": "London",
+    "locationNote": "London N8 0NA (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1030341731",
+      "lat": 51.5874933,
+      "lon": -0.1093966,
+      "postcode": "N8 0NA"
+    }
+  },
+  {
+    "name": "Watford Wellbeing Centre - Herts Mind Network",
+    "slug": "watford-wellbeing-centre-herts-mind-network-way-1103836488",
+    "area": "London",
+    "locationNote": "London WD24 7RZ (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1103836488",
+      "lat": 51.6808334,
+      "lon": -0.3950411,
+      "postcode": "WD24 7RZ"
+    }
+  },
+  {
+    "name": "NHS Psychological Therapist",
+    "slug": "nhs-psychological-therapist-way-1157931534",
+    "area": "London Bridge",
+    "locationNote": "London SE12 0DS (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1157931534",
+      "lat": 51.4355178,
+      "lon": 0.0193824,
+      "postcode": "SE12 0DS"
+    }
+  },
+  {
+    "name": "Edgware Physiotherapy and Dental Clinic",
+    "slug": "edgware-physiotherapy-and-dental-clinic-way-1180048746",
+    "area": "London",
+    "locationNote": "London HA8 8PT (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1180048746",
+      "lat": 51.6174307,
+      "lon": -0.2754957,
+      "postcode": "HA8 8PT"
+    }
+  },
+  {
+    "name": "St George's Health & Wellbeing Hub",
+    "slug": "st-georges-health-wellbeing-hub-way-1197161489",
+    "area": "Hornchurch",
+    "locationNote": "London RM12 6RR (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1197161489",
+      "lat": 51.5487708,
+      "lon": 0.2189009,
+      "postcode": "RM12 6RR"
+    }
+  },
+  {
+    "name": "Wellness Physical Therapy",
+    "slug": "wellness-physical-therapy-way-1302435279",
+    "area": "Shoreditch",
+    "locationNote": "London E15 1XQ (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1302435279",
+      "lat": 51.5420931,
+      "lon": 0.0015495,
+      "postcode": "E15 1XQ"
+    }
+  },
+  {
+    "name": "Balgores Natural Therapy Centre",
+    "slug": "balgores-natural-therapy-centre-way-1304801306",
+    "area": "Romford",
+    "locationNote": "London RM2 6BP (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1304801306",
+      "lat": 51.5816547,
+      "lon": 0.2035821,
+      "postcode": "RM2 6BP"
+    }
+  },
+  {
+    "name": "Firm Foundation Conselling Centre",
+    "slug": "firm-foundation-conselling-centre-way-1324078970",
+    "area": "Romford",
+    "locationNote": "London RM2 5AA (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1324078970",
+      "lat": 51.5778919,
+      "lon": 0.1908925,
+      "postcode": "RM2 5AA"
+    }
+  },
+  {
+    "name": "London Psychiatry Clinic",
+    "slug": "london-psychiatry-clinic-way-1386072187",
+    "area": "Soho",
+    "locationNote": "London W1T 6EJ (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1386072187",
+      "lat": 51.5230205,
+      "lon": -0.1410765,
+      "postcode": "W1T 6EJ"
+    }
+  },
+  {
+    "name": "Massage Therapy",
+    "slug": "massage-therapy-way-1386646563",
+    "area": "Wembley",
+    "locationNote": "London HA9 0RQ (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1386646563",
+      "lat": 51.5611698,
+      "lon": -0.2829383,
+      "postcode": "HA9 0RQ"
+    }
+  },
+  {
+    "name": "Oriental Style Therapy",
+    "slug": "oriental-style-therapy-way-1393636979",
+    "area": "Welling",
+    "locationNote": "London DA16 3PB (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1393636979",
+      "lat": 51.4625623,
+      "lon": 0.105834,
+      "postcode": "DA16 3PB"
+    }
+  },
+  {
+    "name": "Kaija Wellness & Beauty Therapy",
+    "slug": "kaija-wellness-beauty-therapy-node-11115888445",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://kaijawellness.co.uk/",
+    "contact": "https://kaijawellness.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/11115888445",
+      "lat": 51.6360967,
+      "lon": -0.4843111,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Finsbury Therapy House",
+    "slug": "finsbury-therapy-house-way-372701663",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.finsburytherapyhouse.co.uk/",
+    "contact": "https://www.finsburytherapyhouse.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/372701663",
+      "lat": 51.5491943,
+      "lon": -0.0590062,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Nuffield Health Fitness & Wellbeing",
+    "slug": "nuffield-health-fitness-wellbeing-node-258940764",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.nuffieldhealth.com/gyms/leatherhead",
+    "contact": "https://www.nuffieldhealth.com/gyms/leatherhead",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/258940764",
+      "lat": 51.2945185,
+      "lon": -0.3280641,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Parkview Centre for Health and Wellbeing",
+    "slug": "parkview-centre-for-health-and-wellbeing-node-4771992239",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://parkvieww12.co.uk/#",
+    "contact": "https://parkvieww12.co.uk/#",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/4771992239",
+      "lat": 51.5112128,
+      "lon": -0.2353006,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "London College of Beauty Therapy",
+    "slug": "london-college-of-beauty-therapy-node-5599614576",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.lcbt.co.uk/",
+    "contact": "https://www.lcbt.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/5599614576",
+      "lat": 51.5148735,
+      "lon": -0.1387356,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Fizjoterapia Pałacki",
+    "slug": "fizjoterapia-pa-acki-node-6009777679",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://palacki.com/",
+    "contact": "https://palacki.com/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/6009777679",
+      "lat": 51.5392479,
+      "lon": -0.3252776,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Little Venice Pilates & Physiotherapy",
+    "slug": "little-venice-pilates-physiotherapy-node-6710448480",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.ten.co.uk/our_studios/little-venice-pilates-physiotherapy",
+    "contact": "https://www.ten.co.uk/our_studios/little-venice-pilates-physiotherapy",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/6710448480",
+      "lat": 51.5231372,
+      "lon": -0.1862359,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Allen Carr's Easyway",
+    "slug": "allen-carrs-easyway-node-6765322333",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.allencarr.com/",
+    "contact": "https://www.allencarr.com/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/6765322333",
+      "lat": 51.4105842,
+      "lon": -0.2272636,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Therapy4Kids",
+    "slug": "therapy4kids-node-6797555094",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.therapy4kids.co.uk/",
+    "contact": "https://www.therapy4kids.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/6797555094",
+      "lat": 51.410848,
+      "lon": -0.2280638,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Westminster Centre for Psychological Wellbeing",
+    "slug": "westminster-centre-for-psychological-wellbeing-node-6872609323",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "http://cnwltalkingtherapies.org.uk/contact-us",
+    "contact": "http://cnwltalkingtherapies.org.uk/contact-us",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/6872609323",
+      "lat": 51.518731,
+      "lon": -0.1697366,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Help Counselling Centre",
+    "slug": "help-counselling-centre-node-7142098672",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.helpcounselling.com/",
+    "contact": "https://www.helpcounselling.com/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/7142098672",
+      "lat": 51.5119858,
+      "lon": -0.2005602,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Wellbeing Spa",
+    "slug": "wellbeing-spa-node-7509182781",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "http://www.wellbeing-spa.co.uk/",
+    "contact": "http://www.wellbeing-spa.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/7509182781",
+      "lat": 51.5040265,
+      "lon": -0.1924772,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Kensington Therapy Centre",
+    "slug": "kensington-therapy-centre-node-7698684419",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://kensingtontherapycentre.co.uk",
+    "contact": "https://kensingtontherapycentre.co.uk",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/7698684419",
+      "lat": 51.499551,
+      "lon": -0.1967569,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Thai Therapy",
+    "slug": "thai-therapy-node-8023891749",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.thaitherapy.com",
+    "contact": "https://www.thaitherapy.com",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8023891749",
+      "lat": 51.4974176,
+      "lon": -0.1641643,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Physiotherapy - Musculoskeletal Service",
+    "slug": "physiotherapy-musculoskeletal-service-node-8296289126",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.elft.nhs.uk/services/physiotherapy-musculoskeletal-service-newham",
+    "contact": "https://www.elft.nhs.uk/services/physiotherapy-musculoskeletal-service-newham",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8296289126",
+      "lat": 51.5426174,
+      "lon": 0.0069347,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "WELLBEING Counselling",
+    "slug": "wellbeing-counselling-node-8297363844",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.wellbeingonline.co.uk",
+    "contact": "https://www.wellbeingonline.co.uk",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8297363844",
+      "lat": 51.4267571,
+      "lon": 0.1960889,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Dental Wellbeing",
+    "slug": "dental-wellbeing-node-9053474985",
+    "area": "Iver",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.dentalwellbeing.co.uk/",
+    "contact": "https://www.dentalwellbeing.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/9053474985",
+      "lat": 51.505191,
+      "lon": -0.502353,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "OpenDoor",
+    "slug": "opendoor-node-9506772565",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://opendooronline.org",
+    "contact": "https://opendooronline.org",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/9506772565",
+      "lat": 51.5809866,
+      "lon": -0.123509,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "HQ Therapy Rooms",
+    "slug": "hq-therapy-rooms-node-9582571673",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.hqtherapy.com/",
+    "contact": "https://www.hqtherapy.com/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/9582571673",
+      "lat": 51.5394779,
+      "lon": -0.0762939,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "International Federation of Aromatherapists",
+    "slug": "international-federation-of-aromatherapists-node-11251383427",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.ifaroma.org",
+    "contact": "https://www.ifaroma.org",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/11251383427",
+      "lat": 51.499098,
+      "lon": -0.3062627,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Place2Be",
+    "slug": "place2be-node-11786607030",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.place2be.org.uk/",
+    "contact": "https://www.place2be.org.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/11786607030",
+      "lat": 51.5240492,
+      "lon": -0.1031245,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Blackheath Hospital Physiotherapy Department",
+    "slug": "blackheath-hospital-physiotherapy-department-node-13326831823",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.nhs.uk/services/hospital/the-blackheath-hospital/NT406/departments/SRV0081/physiotherapy/",
+    "contact": "https://www.nhs.uk/services/hospital/the-blackheath-hospital/NT406/departments/SRV0081/physiotherapy/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/13326831823",
+      "lat": 51.4653335,
+      "lon": 0.0073864,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Health & Wellbeing Centre",
+    "slug": "health-wellbeing-centre-way-113601921",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.westlondonpractice.co.uk/",
+    "contact": "https://www.westlondonpractice.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/113601921",
+      "lat": 51.4925134,
+      "lon": -0.1926267,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Injury Therapy Pro",
+    "slug": "injury-therapy-pro-way-163272359",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.injurytherapy.pro",
+    "contact": "https://www.injurytherapy.pro",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/163272359",
+      "lat": 51.5299774,
+      "lon": -0.1061418,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Ice Health Cryotherapy",
+    "slug": "ice-health-cryotherapy-way-182770232",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://icehealth.co.uk/page-icehealth.html",
+    "contact": "https://icehealth.co.uk/page-icehealth.html",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/182770232",
+      "lat": 51.4991395,
+      "lon": -0.1978185,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Chiswick Acupuncture & Therapy Clinic",
+    "slug": "chiswick-acupuncture-therapy-clinic-way-207885718",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "http://www.chiswickacupuncture.com",
+    "contact": "http://www.chiswickacupuncture.com",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/207885718",
+      "lat": 51.4914799,
+      "lon": -0.2555625,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Anatomie Physio Therapy Plus",
+    "slug": "anatomie-physio-therapy-plus-way-243638192",
+    "area": "Harrow",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.anatomie.co.uk/",
+    "contact": "https://www.anatomie.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/243638192",
+      "lat": 51.5832449,
+      "lon": -0.3154932,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Wellbeing",
+    "slug": "wellbeing-way-264213604",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://wellbeingcentres.co.uk/",
+    "contact": "https://wellbeingcentres.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/264213604",
+      "lat": 51.5711022,
+      "lon": -0.1168117,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Harley Street Physiotherapy",
+    "slug": "harley-street-physiotherapy-way-294491153",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://harleystreetphysiotherapy.co.uk/index.html",
+    "contact": "https://harleystreetphysiotherapy.co.uk/index.html",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/294491153",
+      "lat": 51.5212608,
+      "lon": -0.1492793,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "The Centre for Better Health",
+    "slug": "the-centre-for-better-health-way-589635882",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "http://www.centreforbetterhealth.org.uk/",
+    "contact": "http://www.centreforbetterhealth.org.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/589635882",
+      "lat": 51.5437891,
+      "lon": -0.0539908,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "AGIP",
+    "slug": "agip-way-641025586",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://agip.org.uk",
+    "contact": "https://agip.org.uk",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/641025586",
+      "lat": 51.5644643,
+      "lon": -0.1298905,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Wimpole Street Physiotherapy Clinic",
+    "slug": "wimpole-street-physiotherapy-clinic-way-671096512",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.wimpolephysio.com/",
+    "contact": "https://www.wimpolephysio.com/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/671096512",
+      "lat": 51.5207618,
+      "lon": -0.1491269,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "West London Physiotherapy",
+    "slug": "west-london-physiotherapy-way-818264652",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.westlondonphysio.co.uk/",
+    "contact": "https://www.westlondonphysio.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/818264652",
+      "lat": 51.4994356,
+      "lon": -0.1886777,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Just Therapy",
+    "slug": "just-therapy-way-1043598691",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://just-therapy.co.uk/",
+    "contact": "https://just-therapy.co.uk/",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1043598691",
+      "lat": 51.422571,
+      "lon": 0.1026781,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Allie's Sanctuary",
+    "slug": "allies-sanctuary-way-1068081570",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.awtf.org/allies-sanctuary",
+    "contact": "https://www.awtf.org/allies-sanctuary",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1068081570",
+      "lat": 51.5703213,
+      "lon": -0.1337519,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Weldon Wellbeing Pavilion",
+    "slug": "weldon-wellbeing-pavilion-way-1302466252",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://egctrust.org.uk/community-facilities",
+    "contact": "https://egctrust.org.uk/community-facilities",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1302466252",
+      "lat": 51.4315285,
+      "lon": 0.315446,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Wanstead Mental Health Clinic",
+    "slug": "wanstead-mental-health-clinic-way-1362347081",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "https://www.wansteadmhclinic.com/home",
+    "contact": "https://www.wansteadmhclinic.com/home",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1362347081",
+      "lat": 51.5754219,
+      "lon": 0.0269703,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "St Charles Health & Wellbeing Centre",
+    "slug": "st-charles-health-wellbeing-centre-node-469781031",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/469781031",
+      "lat": 51.5225821,
+      "lon": -0.2195118,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Neo Resonance & Coaching",
+    "slug": "neo-resonance-coaching-node-618653147",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/618653147",
+      "lat": 51.5347428,
+      "lon": -0.1050382,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Benjawan Thai Massage and Therapy",
+    "slug": "benjawan-thai-massage-and-therapy-node-759905393",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/759905393",
+      "lat": 51.5685821,
+      "lon": -0.1103137,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Kobkun Thai Therapy",
+    "slug": "kobkun-thai-therapy-node-823198555",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/823198555",
+      "lat": 51.5385252,
+      "lon": -0.0994021,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Camden Physiotherapy + Pilates Clinic",
+    "slug": "camden-physiotherapy-pilates-clinic-node-931617054",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/931617054",
+      "lat": 51.5404137,
+      "lon": -0.1434184,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "London Beauty Therapy",
+    "slug": "london-beauty-therapy-node-1344022107",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/1344022107",
+      "lat": 51.5342416,
+      "lon": -0.1112839,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Therapy Services",
+    "slug": "therapy-services-node-2444492361",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/2444492361",
+      "lat": 51.5760789,
+      "lon": -0.3220068,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Sadhana Yoga & Wellbeing",
+    "slug": "sadhana-yoga-wellbeing-node-2501842125",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/2501842125",
+      "lat": 51.4614942,
+      "lon": -0.173496,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Bamboo Natural Therapy",
+    "slug": "bamboo-natural-therapy-node-3080553850",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/3080553850",
+      "lat": 51.5279629,
+      "lon": -0.1249699,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "London Physiotherapy and Wellness",
+    "slug": "london-physiotherapy-and-wellness-node-4058212427",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/4058212427",
+      "lat": 51.5303264,
+      "lon": -0.0212786,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Urban Health & Wellbeing",
+    "slug": "urban-health-wellbeing-node-4307991098",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/4307991098",
+      "lat": 51.4661657,
+      "lon": -0.1510611,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Highgate Physiotherapy",
+    "slug": "highgate-physiotherapy-node-4689762604",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/4689762604",
+      "lat": 51.5746356,
+      "lon": -0.1419635,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Ethereal Warrior",
+    "slug": "ethereal-warrior-node-4689762605",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/4689762605",
+      "lat": 51.5746789,
+      "lon": -0.141993,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Afro & European Hair Styling Skin Care & Alternative Therapy",
+    "slug": "afro-european-hair-styling-skin-care-alternative-therapy-node-4718334256",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/4718334256",
+      "lat": 51.4594964,
+      "lon": -0.1252818,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Westminster Physiotherapy Centre",
+    "slug": "westminster-physiotherapy-centre-node-5217359172",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/5217359172",
+      "lat": 51.4981616,
+      "lon": -0.145242,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Whole Child Therapy",
+    "slug": "whole-child-therapy-node-5574735331",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/5574735331",
+      "lat": 51.4585277,
+      "lon": -0.0023635,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Nutrition and Dietetics",
+    "slug": "nutrition-and-dietetics-node-5638647368",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/5638647368",
+      "lat": 51.467642,
+      "lon": -0.096381,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "PhysioQinetics",
+    "slug": "physioqinetics-node-5836561668",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/5836561668",
+      "lat": 51.5268183,
+      "lon": -0.452085,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Epsom Physiotherapy",
+    "slug": "epsom-physiotherapy-node-6190348958",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/6190348958",
+      "lat": 51.3286915,
+      "lon": -0.2581281,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "The Therapy Suite",
+    "slug": "the-therapy-suite-node-7157406097",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/7157406097",
+      "lat": 51.4360877,
+      "lon": 0.1257485,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Second Skin Therapy",
+    "slug": "second-skin-therapy-node-7433719688",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/7433719688",
+      "lat": 51.4605827,
+      "lon": -0.1680255,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Sammy Margo Physiotherapy",
+    "slug": "sammy-margo-physiotherapy-node-7765719723",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/7765719723",
+      "lat": 51.5626365,
+      "lon": -0.1971372,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Eva Kurz Psychotherapist",
+    "slug": "eva-kurz-psychotherapist-node-7824436310",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/7824436310",
+      "lat": 51.5492659,
+      "lon": -0.1711333,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "UCL Psychology",
+    "slug": "ucl-psychology-node-8140084697",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8140084697",
+      "lat": 51.5238505,
+      "lon": -0.1287957,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Wimbledon Physiotherapy",
+    "slug": "wimbledon-physiotherapy-node-8273278243",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8273278243",
+      "lat": 51.413869,
+      "lon": -0.2061076,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Beckenham Therapy Rooms",
+    "slug": "beckenham-therapy-rooms-node-8437637459",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8437637459",
+      "lat": 51.4067582,
+      "lon": -0.0169622,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Susan D Smith",
+    "slug": "susan-d-smith-node-8437637521",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8437637521",
+      "lat": 51.4069165,
+      "lon": -0.0166881,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "ANKH Wellbeing Centre",
+    "slug": "ankh-wellbeing-centre-node-8616671886",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8616671886",
+      "lat": 51.5069585,
+      "lon": -0.2371829,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Talk Wandsworth",
+    "slug": "talk-wandsworth-node-8679839229",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8679839229",
+      "lat": 51.4279268,
+      "lon": -0.1688092,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Thai Therapy Massage",
+    "slug": "thai-therapy-massage-node-8910742022",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/8910742022",
+      "lat": 51.5064682,
+      "lon": -0.2552524,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Back 2 Wellbeing",
+    "slug": "back-2-wellbeing-node-10779294514",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/10779294514",
+      "lat": 51.4973799,
+      "lon": -0.3131907,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Church Manor Wellbeing Hub",
+    "slug": "church-manor-wellbeing-hub-node-11128539029",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/11128539029",
+      "lat": 51.4773928,
+      "lon": -0.1094321,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "One Bromley Wellbeing Hub",
+    "slug": "one-bromley-wellbeing-hub-node-11232248868",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/11232248868",
+      "lat": 51.4038809,
+      "lon": 0.0170613,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Kingsbury Health And Wellbeing",
+    "slug": "kingsbury-health-and-wellbeing-node-11509118014",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/11509118014",
+      "lat": 51.5927546,
+      "lon": -0.2661883,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Therapy@Visage",
+    "slug": "therapy-visage-node-11564483268",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/11564483268",
+      "lat": 51.5156035,
+      "lon": -0.3020871,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "London Psychiatric Clinic",
+    "slug": "london-psychiatric-clinic-node-11883160411",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/11883160411",
+      "lat": 51.3914607,
+      "lon": -0.3087422,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Harlesden Ummah Community & Wellbeing Centre",
+    "slug": "harlesden-ummah-community-wellbeing-centre-node-12175687706",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/12175687706",
+      "lat": 51.5379261,
+      "lon": -0.2497066,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Hijama Therapy Cupping",
+    "slug": "hijama-therapy-cupping-node-12199188778",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/12199188778",
+      "lat": 51.5333306,
+      "lon": -0.2409602,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Thai Touch Therapy",
+    "slug": "thai-touch-therapy-node-12514331935",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/12514331935",
+      "lat": 51.5082263,
+      "lon": -0.2776102,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "S E I K Psychiatry",
+    "slug": "s-e-i-k-psychiatry-node-12848684144",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/12848684144",
+      "lat": 51.5212954,
+      "lon": -0.0796902,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Flowan Health Ultrasound and Wellbeing",
+    "slug": "flowan-health-ultrasound-and-wellbeing-node-12867157723",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/12867157723",
+      "lat": 51.4381458,
+      "lon": -0.1552282,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Sanspa Thai Therapy",
+    "slug": "sanspa-thai-therapy-node-12960238463",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/12960238463",
+      "lat": 51.4934366,
+      "lon": -0.2421954,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Imagine Harmony",
+    "slug": "imagine-harmony-node-12979925713",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/12979925713",
+      "lat": 51.4211859,
+      "lon": -0.128929,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "New Cross Natural Therapy Centre",
+    "slug": "new-cross-natural-therapy-centre-node-13042608603",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/13042608603",
+      "lat": 51.4755971,
+      "lon": -0.0314225,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Total Wellbeing",
+    "slug": "total-wellbeing-node-13255497219",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/13255497219",
+      "lat": 51.372169,
+      "lon": -0.4580799,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Sabayjai Thai Therapy",
+    "slug": "sabayjai-thai-therapy-node-13444834921",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "node/13444834921",
+      "lat": 51.3843117,
+      "lon": -0.2928794,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Social, Genetic & Developmental Psychiatry",
+    "slug": "social-genetic-developmental-psychiatry-way-8083125",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/8083125",
+      "lat": 51.4694768,
+      "lon": -0.0883667,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "City Wellbeing Centre",
+    "slug": "city-wellbeing-centre-way-27510060",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/27510060",
+      "lat": 51.5161037,
+      "lon": -0.0765292,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Child Psychiatry",
+    "slug": "child-psychiatry-way-86651771",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/86651771",
+      "lat": 51.4702122,
+      "lon": -0.0901459,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Henry Wellcome Building for Psychology",
+    "slug": "henry-wellcome-building-for-psychology-way-86651854",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/86651854",
+      "lat": 51.4704095,
+      "lon": -0.0893493,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "British Association and College of Occupational Therapists",
+    "slug": "british-association-and-college-of-occupational-therapists-way-99493670",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/99493670",
+      "lat": 51.5030852,
+      "lon": -0.0922527,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "hair therapy",
+    "slug": "hair-therapy-way-145820752",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/145820752",
+      "lat": 51.4930607,
+      "lon": -0.2085718,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Terapi Londra",
+    "slug": "terapi-londra-way-179791114",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/179791114",
+      "lat": 51.5978607,
+      "lon": -0.0915716,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Renaissance yoga & well being",
+    "slug": "renaissance-yoga-well-being-way-203120738",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/203120738",
+      "lat": 51.4637567,
+      "lon": -0.0389718,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "KTB Kids, KTB Physiotherapy & Pilates",
+    "slug": "ktb-kids-ktb-physiotherapy-pilates-way-232970653",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/232970653",
+      "lat": 51.4419267,
+      "lon": 0.1504336,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Balanced Life Therapy Centre",
+    "slug": "balanced-life-therapy-centre-way-304102010",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/304102010",
+      "lat": 51.6191582,
+      "lon": 0.0749093,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Louis Freedman Centre for Well-being / Psychology",
+    "slug": "louis-freedman-centre-for-well-being-psychology-way-305035323",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/305035323",
+      "lat": 51.5334225,
+      "lon": -0.0792469,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "South Westminster CMHT",
+    "slug": "south-westminster-cmht-way-358866400",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/358866400",
+      "lat": 51.4932949,
+      "lon": -0.1387101,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Helios Centre",
+    "slug": "helios-centre-way-421882348",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/421882348",
+      "lat": 51.5187091,
+      "lon": -0.1180896,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Richmond Physiotherapy",
+    "slug": "richmond-physiotherapy-way-432785668",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/432785668",
+      "lat": 51.4592499,
+      "lon": -0.3065193,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Zen Therapy",
+    "slug": "zen-therapy-way-444073008",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/444073008",
+      "lat": 51.3923786,
+      "lon": -0.3122932,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Shen-Qi Therapy",
+    "slug": "shen-qi-therapy-way-475994832",
+    "area": "Chingford",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/475994832",
+      "lat": 51.6052873,
+      "lon": -0.0035746,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Sunrise Speech Therapy",
+    "slug": "sunrise-speech-therapy-way-595097791",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/595097791",
+      "lat": 51.5754099,
+      "lon": 0.0269369,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Priory Wellbeing Centre Harley Street",
+    "slug": "priory-wellbeing-centre-harley-street-way-670365510",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/670365510",
+      "lat": 51.5183056,
+      "lon": -0.1469569,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "London Psychiatry Clinic",
+    "slug": "london-psychiatry-clinic-way-670508799",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/670508799",
+      "lat": 51.5188754,
+      "lon": -0.1472801,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "The Harley Street Clinic Cancer & Radiotherapy Centre",
+    "slug": "the-harley-street-clinic-cancer-radiotherapy-centre-way-671010789",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/671010789",
+      "lat": 51.5200211,
+      "lon": -0.1478092,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Highams Park Counselling Centre",
+    "slug": "highams-park-counselling-centre-way-681581507",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/681581507",
+      "lat": 51.6078199,
+      "lon": 0.0001784,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Caterham Counselling Centre",
+    "slug": "caterham-counselling-centre-way-695140837",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/695140837",
+      "lat": 51.2878033,
+      "lon": -0.0980103,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Occupational Therapy",
+    "slug": "occupational-therapy-way-813836958",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/813836958",
+      "lat": 51.3826318,
+      "lon": -0.0298209,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Balaam Street Community Mental Health Services",
+    "slug": "balaam-street-community-mental-health-services-way-935069501",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/935069501",
+      "lat": 51.5260988,
+      "lon": 0.0236777,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Well Being Pharmacy",
+    "slug": "well-being-pharmacy-way-956045169",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/956045169",
+      "lat": 51.4449216,
+      "lon": -0.205592,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Bromley Physiotherapy & Sports Injury Clinic",
+    "slug": "bromley-physiotherapy-sports-injury-clinic-way-966322634",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/966322634",
+      "lat": 51.4143894,
+      "lon": 0.0208854,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Herne Hill Therapy Rooms",
+    "slug": "herne-hill-therapy-rooms-way-1030869813",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1030869813",
+      "lat": 51.4525947,
+      "lon": -0.1026953,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Sutton Institue of Hypnotherapists",
+    "slug": "sutton-institue-of-hypnotherapists-way-1134041048",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1134041048",
+      "lat": 51.3711591,
+      "lon": -0.1525485,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Hydrotherapy Pool",
+    "slug": "hydrotherapy-pool-way-1245684966",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1245684966",
+      "lat": 51.4779942,
+      "lon": 0.1162405,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Children's Therapy",
+    "slug": "childrens-therapy-way-1245684967",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1245684967",
+      "lat": 51.4778288,
+      "lon": 0.1160583,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Brentwood Arts Therapy Centre",
+    "slug": "brentwood-arts-therapy-centre-way-1334260271",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1334260271",
+      "lat": 51.6376226,
+      "lon": 0.281286,
+      "postcode": ""
+    }
+  },
+  {
+    "name": "Adjust Your Sail",
+    "slug": "adjust-your-sail-way-1450388664",
+    "area": "London",
+    "locationNote": "London (exact location via provider)",
+    "website": "",
+    "contact": "",
+    "specialisms": [
+      "Counselling"
+    ],
+    "sessionFormat": "Unknown (verify)",
+    "acceptingNewClients": true,
+    "blurb": "Auto-added from OpenStreetMap. Verify availability, fees, and credentials directly with the provider.",
+    "updatedAt": "2026-01-31",
+    "disclaimer": "This directory is informational and not medical advice. If you are in crisis, contact emergency services.",
+    "_source": {
+      "osmId": "way/1450388664",
+      "lat": 51.5318592,
+      "lon": -0.0422911,
+      "postcode": ""
+    }
+  }
+]
