@@ -26,10 +26,10 @@ const areas = listAreas();
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>Therapists Accepting New Clients in London — Directory</title>
+    <title>Therapy & Wellbeing in London — Directory</title>
     <meta
       name="description"
-      content="A directory of therapists/counsellors who may be accepting new clients in London. Verify availability and credentials directly."
+      content="A directory of therapy and wellbeing providers in London. Verify services, pricing, and availability directly with each provider."
     />
     <style>
       body {
@@ -54,9 +54,9 @@ const areas = listAreas();
   <body>
     <main class="wrap">
       <header>
-        <h1 style="font-size: 32px; margin: 0 0 8px;">Therapists Accepting New Clients (London)</h1>
+        <h1 style="font-size: 32px; margin: 0 0 8px;">Therapy & Wellbeing (London)</h1>
         <p class="muted" style="margin:0 0 16px;">
-          Directory MVP. Please verify availability and credentials directly with the provider.
+          Directory MVP. Please verify services offered, pricing, and availability directly with each provider.
         </p>
       </header>
 
@@ -71,14 +71,14 @@ const areas = listAreas();
           <button type="submit" style="padding:10px 14px; cursor:pointer;">Search</button>
         </form>
 
-        <a href="/london/therapists" style="margin-left:auto; text-decoration:underline;">Browse all →</a>
+        <a href="/london/therapy-and-wellbeing" style="margin-left:auto; text-decoration:underline;">Browse all →</a>
       </section>
 
       <section style="margin-bottom:24px;">
         <h2 style="font-size:20px; margin:0 0 8px;">Areas</h2>
         <div style="display:flex; gap:10px; flex-wrap:wrap;">
           {areas.map((a) => (
-            <a class="pill" href={`/london/therapists?area=${encodeURIComponent(a)}`}>{a}</a>
+            <a class="pill" href={`/london/therapy-and-wellbeing?area=${encodeURIComponent(a)}`}>{a}</a>
           ))}
         </div>
       </section>
@@ -89,7 +89,7 @@ const areas = listAreas();
           {places.map((p) => (
             <li class="card">
               <div style="display:flex; justify-content:space-between; gap:12px;">
-                <a href={`/london/therapists/${p.slug}`}><strong>{p.name}</strong></a>
+                <a href={`/london/therapy-and-wellbeing/${p.slug}`}><strong>{p.name}</strong></a>
                 <span class="muted">{p.area}</span>
               </div>
               <div class="muted" style="margin-top:6px;">

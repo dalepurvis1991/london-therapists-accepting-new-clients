@@ -15,8 +15,8 @@ function xmlEscape(s: string) {
 export const GET: APIRoute = async () => {
   const urls = [
     `${BASE_URL}/`,
-    `${BASE_URL}/london/therapists`,
-    ...PLACES.map((p) => `${BASE_URL}/london/therapists/${p.slug}`),
+    `${BASE_URL}/london/therapy-and-wellbeing`,
+    ...PLACES.map((p) => `${BASE_URL}/london/therapy-and-wellbeing/${p.slug}`),
   ];
 
   const body =

@@ -2,61 +2,9 @@
 import { PLACES } from "../../../data/places";
 
 export function getStaticPaths() {
-  return PLACES.map((p) => ({ params: { slug: p.slug }, props: { place: p } }));
+  return PLACES.map((p) => ({ params: { slug: p.slug } }));
 }
 
-const { place } = Astro.props;
+const { slug } = Astro.params;
+return Astro.redirect(`/london/therapy-and-wellbeing/${slug}`, 301);
 ---
-
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>{place.name} — Therapist (London)</title>
-    <meta
-      name="description"
-      content={`Session format, specialisms, and contact details for ${place.name}.`}
-    />
-    <style>
-      body {
-        font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto,
-          Helvetica, Arial;
-        margin: 0;
-        color: #111;
-      }
-      a { color: inherit; }
-      .wrap { max-width: 960px; margin: 0 auto; padding: 24px; }
-      .box { border: 1px solid #eee; padding: 14px; margin-bottom: 14px; }
-      .muted { color:#555; }
-    </style>
-  </head>
-  <body>
-    <main class="wrap">
-      <p style="margin:0 0 10px;">
-        <a href="/london/therapists" style="text-decoration:underline;">← Back</a>
-      </p>
-
-      <h1 style="font-size:30px; margin:0 0 6px;">{place.name}</h1>
-      <p class="muted" style="margin:0 0 14px;">{place.locationNote} • {place.sessionFormat}</p>
-
-      <div class="box">
-        <div><strong>Accepting new clients:</strong> {place.acceptingNewClients ? "Yes" : "Unknown"}</div>
-        <div><strong>Area:</strong> {place.area}</div>
-        <div><strong>Specialisms:</strong> {place.specialisms.join(", ")}</div>
-        {place.website ? (
-          <div><strong>Website:</strong> <a href={place.website}>{place.website}</a></div>
-        ) : null}
-        {place.contact ? (
-          <div><strong>Contact/booking:</strong> <a href={place.contact}>{place.contact}</a></div>
-        ) : null}
-        <div><strong>Last updated:</strong> {place.updatedAt}</div>
-      </div>
-
-      <p style="margin:0 0 14px;">{place.blurb}</p>
-
-      <p class="muted" style="margin-top:16px; font-size:14px;">
-        {place.disclaimer ?? "This directory is informational and not medical advice."}
-      </p>
-    </main>
-  </body>
-</html>
